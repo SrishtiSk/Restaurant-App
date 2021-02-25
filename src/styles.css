@@ -1,1 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
+/* @import '@angular/material/prebuilt-themes/deeppurple-amber.css'; */
+/*@import '@angular/material/prebuilt-themes/indigo-pink.css';
+@import '@angular/material/prebuilt-themes/pink-bluegrey.css';
+@import '@angular/material/prebuilt-themes/purple-green.css'; */
+
+.jumbotron{
+    padding-top: 0px;
+    background: #fff;
+}
+
+.form-control,.input-group-text{
+    border:1px solid #0080ff;
+  
+}
+
+
+
+table.table-hover tbody tr:hover{
+cursor: pointer;
+}
+
+
+
+
